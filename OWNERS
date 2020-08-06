@@ -1,0 +1,11 @@
+# See: https://go.k8s.io/owners
+approvers:
+  - Fei-Guo
+  - FillZpp
+  - jian-he
+  - jzwlqx # for BroadcastJob
+reviewers:
+  - Fei-Guo
+  - FillZpp
+  - jian-he
+  - jzwlqx # for BroadcastJob
